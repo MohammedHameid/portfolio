@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Projects  
+## 📂 Projects  
 
 - **Patient Segmentation with ML** → Applied K-Means clustering to group patients by demographics & behavior, enabling personalized marketing. *(Python, Scikit-learn, Matplotlib)*  
 - **Healthcare Analytics with SQL + Power BI** → Designed complex SQL queries & dashboards to track visits, revenue, and retention across branches.  
