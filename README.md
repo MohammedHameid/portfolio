@@ -1,10 +1,4 @@
 # 🚀 Data Scientist
-<p align="center">
-  <img src="Assets/AlxPhoto.jpeg" alt="Mohamed Hamed" width="200" style="border-radius:50%"/>
-</p>
-
-<h1 align="center">Mohamed Hamed</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning | Business Intelligence</h3>
 
 ## 🎓 Education  
 **Bachelor of Computer Science and Artificial Intelligence**  
