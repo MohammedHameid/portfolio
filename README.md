@@ -1,6 +1,6 @@
 # 🚀 Data Scientist
 <p align="center">
-  <img src="profile.jpg" alt="Mohamed Hamed" width="200" style="border-radius:50%"/>
+  <img src="Assets/AlxPhoto.jpeg" alt="Mohamed Hamed" width="200" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Mohamed Hamed</h1>
